@@ -2,6 +2,9 @@
 "# covid-tracker" 
 "# covid-tracker-Jos" 
 
+# Quick Review
+This app can show data in the world of the virus COVIN-19 the global, and in indonesian
+
 ![Screenshot_20200513-072100](https://user-images.githubusercontent.com/63180549/81755509-90747c80-94eb-11ea-87a0-19d6c67c92b9.png)
 
 ## Installation
