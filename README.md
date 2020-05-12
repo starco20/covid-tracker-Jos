@@ -16,7 +16,7 @@ git clone https://github.com/starco20/covid-tracker-Jos.git
 
 3. Install Dependecies
 ```bash
-cd covid-tracker-Jos
+cd covid_tracker_Jos
 npm install
 ```
 4. Run the app
