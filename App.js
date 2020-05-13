@@ -12,9 +12,9 @@ class App extends Component {
           {"\n"}Data COVID-19 Global & Indonesia
           {"\n \n"}Global
         </Text>
-        <Global />
+        <Global/>
           <Text style={{ textAlign:'center' , fontSize:30 }}>{"\n \n \n \n"}Indonesia{"\n"}</Text>
-        <List/>
+        <List/> 
       </View>
     )
   }
