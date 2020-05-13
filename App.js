@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { Text, View } from 'react-native';
 import Global from './src/components/Global';
-import TList from './src/components/TList';
 import List from './src/components/List';
 
 class App extends Component {
@@ -14,9 +13,8 @@ class App extends Component {
           {"\n \n"}Global
         </Text>
         <Global />
-          <Text style={{ textAlign:'center' , fontSize:30 }}>{"\n \n \n"}Indonesia{"\n"}</Text>
+          <Text style={{ textAlign:'center' , fontSize:30 }}>{"\n \n \n \n"}Indonesia{"\n"}</Text>
         <List/>
-        // <TList/>
       </View>
     )
   }
