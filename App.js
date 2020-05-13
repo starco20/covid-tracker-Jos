@@ -16,7 +16,7 @@ class App extends Component {
         <Global />
           <Text style={{ textAlign:'center' , fontSize:30 }}>{"\n \n \n"}Indonesia{"\n"}</Text>
         <List/>
-        <TList/>
+        // <TList/>
       </View>
     )
   }
