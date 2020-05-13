@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "HelloWorld",
+    "name": "Covid Tracker",
     "slug": "fn",
     "platforms": [
       "ios",
